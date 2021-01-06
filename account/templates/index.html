@@ -7,7 +7,7 @@
   <div class="container">
   <h1 class="head" style="font-family:'Grand Hotel',cursive; color: black;font-size:70px;text-align: center;">Instagram</h1>
   {% for image in pictures %}
-  <div class="card" style="width: 35em; margin-top: 6%;margin-left: 20%;"
+  <div class="card" style="width: 35em; margin-top: 6%;margin-left: 20%;background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Four_Elans.jpg/440px-Four_Elans.jpg;"
   <span style="font-family: sans-serif;"><img src="{{user.profile.profile_pic.url}}" alt="Profile" class="img-responsive img_profile">{{image.user}}</span>
 
   <img src="{{image.image.url}}" height="400" alt="pict" class="img-responsive" >
