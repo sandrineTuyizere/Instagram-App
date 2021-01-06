@@ -30,7 +30,7 @@
 </div>
   {% endfor %}
 </div>
-  <div class="jumbotron text-center mt-0" style="background-image: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/italian-baby-names-sofia-1563210216.jpg?crop=0.626xw:0.418xh;0.202xw,0.0363xh&resize=480:*;">
+  <div class="jumbotron text-center mt-0" style="background-color:white;">
     <form action="{% url 'homePage' %}" method="post">
       {%csrf_token%}
       {% bootstrap_form letterForm %}
