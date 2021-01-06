@@ -29,12 +29,7 @@
 </div>
 </div>
   {% endfor %}
-</div>
-  <div class="jumbotron text-center mt-0" style="background-color:white;">
-    <form action="{% url 'homePage' %}" method="post">
-      {%csrf_token%}
-      {% bootstrap_form letterForm %}
-      <input type="submit" value="subscribe">
+
 
     </form>
 
