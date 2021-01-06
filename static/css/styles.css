@@ -8,16 +8,7 @@
 }
 .viewall a{
     text-decoration:none;
-    color:grey;
-    padding:0px;
-}
-.user{
-    color:black;
-}
-.user a:hover{
-    text-decoration:none;
-}
-.col-form-label{
+    c
     font-size:14;
 }
 #overlay{
