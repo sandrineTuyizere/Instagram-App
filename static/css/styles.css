@@ -5,25 +5,15 @@
         flex-direction:row;
         display:inline;
     }
-    #insta{
-        height:60%;
-    }
+    
+    
 
 }
 
 h1{
     color:green;
 }
-.form-text, .asteriskField{
-    display:none;
-}
-.reg{
-    background-color:#f9f9f9;
-}
-.alert{
-    margin:0;
-    padding:0;
-}
+
 .alert ul li {
     list-style-type: none;
     padding:0;
