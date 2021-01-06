@@ -28,3 +28,7 @@ this application will allow the user to view photos,likes,follow and unfollow ev
 * javascript
 * css
 * Postgres SQLALchemy
+
+# Run
+
+Use Terminal to open the server and the brouser to run this application
