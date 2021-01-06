@@ -18,3 +18,13 @@ this application will allow the user to view photos,likes,follow and unfollow ev
 * See my profile with all my pictures.
 * Follow other users and see their pictures on my timeline.
 * Like a picture and leave a comment on it.
+
+# Technology used
+* Python3.6
+* Django
+* terminal
+* ubuntu window
+* html
+* javascript
+* css
+* Postgres SQLALchemy
