@@ -14,19 +14,6 @@ h1{
     color:green;
 }
 
-.alert ul li {
-    list-style-type: none;
-    padding:0;
-    margin:0;
-    font-size:12px;
-}
-.navbar{
-    background-color:white;
-}
-.instaicon{
-    display: inline-block;
-    background-image: url(/static/images/96319a506a03.png);
-    padding:0px;
 }
 .instaglyph{
     display: inline-block;
