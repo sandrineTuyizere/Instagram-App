@@ -23,6 +23,8 @@ urlpatterns = [
     url(r'',include('account.urls')),
     url(r'^tinymce/', include('tinymce.urls')),
     url(r"^logout/$", auth_views.LogoutView.as_view(), name='logout'),
+    url(r"^login/$", auth_views.LoginView.as_view(), name='login'),
+
    # url(r'^logout/$', views.logout, {"next_page": '/'}),
     #url( r'^logout/$',auth_views.LogoutView.as_view(template_name="useraccounts/logout.html"), name="logout"),
 
