@@ -10,3 +10,11 @@ Project by TUYIZERE Sandrine
 # Description
 
 this application will allow the user to view photos,likes,follow and unfollow even comments. this web application works as the same as the instagram website the user able to likes according to the post, comment any picture they want and the user can have their own profile where they can view only the picture ther have post.
+
+# User Story
+
+* Sign in to the application to start using.
+* Upload my pictures to the application.
+* See my profile with all my pictures.
+* Follow other users and see their pictures on my timeline.
+* Like a picture and leave a comment on it.
